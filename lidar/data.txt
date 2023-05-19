@@ -1,0 +1,721 @@
+360
+Angle: 0, Distance: -1
+
+Angle: 1, Distance: 117.5
+
+Angle: 2, Distance: 117.25
+
+Angle: 3, Distance: 117.75
+
+Angle: 4, Distance: 117.5
+
+Angle: 5, Distance: 118.0
+
+Angle: 6, Distance: 117.5
+
+Angle: 7, Distance: 119.0
+
+Angle: 8, Distance: 120.5
+
+Angle: 9, Distance: 119.25
+
+Angle: 10, Distance: 119.25
+
+Angle: 11, Distance: 119.75
+
+Angle: 12, Distance: 126.75
+
+Angle: 13, Distance: 127.0
+
+Angle: 14, Distance: 127.75
+
+Angle: 15, Distance: 123.25
+
+Angle: 16, Distance: -1
+
+Angle: 17, Distance: -1
+
+Angle: 18, Distance: -1
+
+Angle: 19, Distance: 113.5
+
+Angle: 20, Distance: -1
+
+Angle: 21, Distance: -1
+
+Angle: 22, Distance: -1
+
+Angle: 23, Distance: -1
+
+Angle: 24, Distance: -1
+
+Angle: 25, Distance: -1
+
+Angle: 26, Distance: -1
+
+Angle: 27, Distance: -1
+
+Angle: 28, Distance: -1
+
+Angle: 29, Distance: -1
+
+Angle: 30, Distance: 210.25
+
+Angle: 31, Distance: 687.75
+
+Angle: 32, Distance: 637.25
+
+Angle: 33, Distance: 631.75
+
+Angle: 34, Distance: 627.75
+
+Angle: 35, Distance: 635.25
+
+Angle: 36, Distance: 641.25
+
+Angle: 37, Distance: 636.5
+
+Angle: 38, Distance: 745.0
+
+Angle: 39, Distance: 642.75
+
+Angle: 40, Distance: 846.25
+
+Angle: 41, Distance: 845.75
+
+Angle: 42, Distance: 1226.5
+
+Angle: 43, Distance: 1227.0
+
+Angle: 44, Distance: 329.5
+
+Angle: 45, Distance: 330.25
+
+Angle: 46, Distance: -1
+
+Angle: 47, Distance: 336.0
+
+Angle: 48, Distance: 332.0
+
+Angle: 49, Distance: 768.0
+
+Angle: 50, Distance: 415.0
+
+Angle: 51, Distance: -1
+
+Angle: 52, Distance: 305.75
+
+Angle: 53, Distance: -1
+
+Angle: 54, Distance: -1
+
+Angle: 55, Distance: 858.5
+
+Angle: 56, Distance: 1242.0
+
+Angle: 57, Distance: 282.0
+
+Angle: 58, Distance: 269.75
+
+Angle: 59, Distance: 256.75
+
+Angle: 60, Distance: 268.25
+
+Angle: 61, Distance: 254.0
+
+Angle: 62, Distance: 252.25
+
+Angle: 63, Distance: 261.5
+
+Angle: 64, Distance: -1
+
+Angle: 65, Distance: -1
+
+Angle: 66, Distance: 278.5
+
+Angle: 67, Distance: 274.5
+
+Angle: 68, Distance: 249.75
+
+Angle: 69, Distance: -1
+
+Angle: 70, Distance: 248.5
+
+Angle: 71, Distance: 246.25
+
+Angle: 72, Distance: 246.5
+
+Angle: 73, Distance: 245.75
+
+Angle: 74, Distance: 245.75
+
+Angle: 75, Distance: 246.75
+
+Angle: 76, Distance: 228.25
+
+Angle: 77, Distance: 228.5
+
+Angle: 78, Distance: 221.25
+
+Angle: 79, Distance: 224.75
+
+Angle: 80, Distance: 222.5
+
+Angle: 81, Distance: 221.5
+
+Angle: 82, Distance: 220.75
+
+Angle: 83, Distance: 221.0
+
+Angle: 84, Distance: 217.75
+
+Angle: 85, Distance: 217.5
+
+Angle: 86, Distance: 217.0
+
+Angle: 87, Distance: 217.25
+
+Angle: 88, Distance: 217.0
+
+Angle: 89, Distance: 216.5
+
+Angle: 90, Distance: 216.25
+
+Angle: 91, Distance: 216.5
+
+Angle: 92, Distance: 216.0
+
+Angle: 93, Distance: 216.0
+
+Angle: 94, Distance: 216.25
+
+Angle: 95, Distance: 216.25
+
+Angle: 96, Distance: 216.25
+
+Angle: 97, Distance: 216.75
+
+Angle: 98, Distance: 218.5
+
+Angle: 99, Distance: 216.75
+
+Angle: 100, Distance: 202.75
+
+Angle: 101, Distance: 203.0
+
+Angle: 102, Distance: 221.75
+
+Angle: 103, Distance: 223.25
+
+Angle: 104, Distance: 224.0
+
+Angle: 105, Distance: 227.25
+
+Angle: 106, Distance: 231.5
+
+Angle: 107, Distance: 209.5
+
+Angle: 108, Distance: 245.25
+
+Angle: 109, Distance: 184.25
+
+Angle: 110, Distance: 234.25
+
+Angle: 111, Distance: 185.25
+
+Angle: 112, Distance: 176.25
+
+Angle: 113, Distance: 185.5
+
+Angle: 114, Distance: 186.0
+
+Angle: 115, Distance: 186.25
+
+Angle: 116, Distance: 187.0
+
+Angle: 117, Distance: 248.0
+
+Angle: 118, Distance: 247.0
+
+Angle: 119, Distance: 243.75
+
+Angle: 120, Distance: 175.5
+
+Angle: 121, Distance: 179.0
+
+Angle: 122, Distance: 179.75
+
+Angle: 123, Distance: 253.5
+
+Angle: 124, Distance: 176.25
+
+Angle: 125, Distance: 176.75
+
+Angle: 126, Distance: -1
+
+Angle: 127, Distance: 390.75
+
+Angle: 128, Distance: 394.0
+
+Angle: 129, Distance: 647.75
+
+Angle: 130, Distance: 387.0
+
+Angle: 131, Distance: -1
+
+Angle: 132, Distance: -1
+
+Angle: 133, Distance: 183.25
+
+Angle: 134, Distance: 672.0
+
+Angle: 135, Distance: -1
+
+Angle: 136, Distance: -1
+
+Angle: 137, Distance: 117.0
+
+Angle: 138, Distance: 116.0
+
+Angle: 139, Distance: -1
+
+Angle: 140, Distance: 114.0
+
+Angle: 141, Distance: 592.25
+
+Angle: 142, Distance: 134.25
+
+Angle: 143, Distance: -1
+
+Angle: 144, Distance: 132.25
+
+Angle: 145, Distance: 133.75
+
+Angle: 146, Distance: 554.75
+
+Angle: 147, Distance: 125.75
+
+Angle: 148, Distance: 142.75
+
+Angle: 149, Distance: 124.0
+
+Angle: 150, Distance: 140.5
+
+Angle: 151, Distance: 139.0
+
+Angle: 152, Distance: 137.25
+
+Angle: 153, Distance: 135.75
+
+Angle: 154, Distance: -1
+
+Angle: 155, Distance: 135.25
+
+Angle: 156, Distance: 134.75
+
+Angle: 157, Distance: 157.75
+
+Angle: 158, Distance: 151.75
+
+Angle: 159, Distance: 154.5
+
+Angle: 160, Distance: 140.75
+
+Angle: 161, Distance: 139.5
+
+Angle: 162, Distance: 138.75
+
+Angle: 163, Distance: 151.0
+
+Angle: 164, Distance: 138.25
+
+Angle: 165, Distance: 138.0
+
+Angle: 166, Distance: 138.0
+
+Angle: 167, Distance: 147.75
+
+Angle: 168, Distance: 137.5
+
+Angle: 169, Distance: 174.0
+
+Angle: 170, Distance: 171.25
+
+Angle: 171, Distance: 170.5
+
+Angle: 172, Distance: 169.0
+
+Angle: 173, Distance: 169.25
+
+Angle: 174, Distance: 169.5
+
+Angle: 175, Distance: 169.75
+
+Angle: 176, Distance: 170.25
+
+Angle: 177, Distance: 170.25
+
+Angle: 178, Distance: 170.75
+
+Angle: 179, Distance: 170.75
+
+Angle: 180, Distance: 170.75
+
+Angle: 181, Distance: 170.75
+
+Angle: 182, Distance: 170.75
+
+Angle: 183, Distance: 170.5
+
+Angle: 184, Distance: 171.0
+
+Angle: 185, Distance: 171.5
+
+Angle: 186, Distance: 171.25
+
+Angle: 187, Distance: 172.0
+
+Angle: 188, Distance: 172.0
+
+Angle: 189, Distance: 172.5
+
+Angle: 190, Distance: 173.0
+
+Angle: 191, Distance: 173.75
+
+Angle: 192, Distance: 174.25
+
+Angle: 193, Distance: 174.5
+
+Angle: 194, Distance: 175.25
+
+Angle: 195, Distance: 176.5
+
+Angle: 196, Distance: 130.25
+
+Angle: 197, Distance: 136.25
+
+Angle: 198, Distance: 140.5
+
+Angle: 199, Distance: 137.0
+
+Angle: 200, Distance: 138.0
+
+Angle: 201, Distance: 140.5
+
+Angle: 202, Distance: 138.75
+
+Angle: 203, Distance: 139.5
+
+Angle: 204, Distance: 140.75
+
+Angle: 205, Distance: 140.25
+
+Angle: 206, Distance: 141.25
+
+Angle: 207, Distance: 143.0
+
+Angle: 208, Distance: 142.0
+
+Angle: 209, Distance: 142.5
+
+Angle: 210, Distance: 143.0
+
+Angle: 211, Distance: 143.75
+
+Angle: 212, Distance: 142.75
+
+Angle: 213, Distance: 144.75
+
+Angle: 214, Distance: 145.5
+
+Angle: 215, Distance: 146.5
+
+Angle: 216, Distance: 144.75
+
+Angle: 217, Distance: 145.5
+
+Angle: 218, Distance: 138.0
+
+Angle: 219, Distance: 139.0
+
+Angle: 220, Distance: 148.25
+
+Angle: 221, Distance: 150.25
+
+Angle: 222, Distance: 151.0
+
+Angle: 223, Distance: 170.25
+
+Angle: 224, Distance: 171.0
+
+Angle: 225, Distance: 180.25
+
+Angle: 226, Distance: 143.25
+
+Angle: 227, Distance: 181.25
+
+Angle: 228, Distance: 182.0
+
+Angle: 229, Distance: 183.0
+
+Angle: 230, Distance: 179.0
+
+Angle: 231, Distance: 182.5
+
+Angle: 232, Distance: 185.25
+
+Angle: 233, Distance: 186.5
+
+Angle: 234, Distance: -1
+
+Angle: 235, Distance: 188.0
+
+Angle: 236, Distance: 189.25
+
+Angle: 237, Distance: 190.75
+
+Angle: 238, Distance: 186.5
+
+Angle: 239, Distance: -1
+
+Angle: 240, Distance: 196.0
+
+Angle: 241, Distance: 182.25
+
+Angle: 242, Distance: 182.75
+
+Angle: 243, Distance: -1
+
+Angle: 244, Distance: 183.5
+
+Angle: 245, Distance: 435.25
+
+Angle: 246, Distance: 468.75
+
+Angle: 247, Distance: 463.5
+
+Angle: 248, Distance: 300.25
+
+Angle: 249, Distance: 314.25
+
+Angle: 250, Distance: 311.5
+
+Angle: 251, Distance: 291.5
+
+Angle: 252, Distance: 309.5
+
+Angle: 253, Distance: 309.5
+
+Angle: 254, Distance: 321.0
+
+Angle: 255, Distance: 323.75
+
+Angle: 256, Distance: 310.25
+
+Angle: 257, Distance: 313.0
+
+Angle: 258, Distance: 314.5
+
+Angle: 259, Distance: 313.75
+
+Angle: 260, Distance: 312.0
+
+Angle: 261, Distance: 310.0
+
+Angle: 262, Distance: 383.0
+
+Angle: 263, Distance: 535.5
+
+Angle: 264, Distance: 522.25
+
+Angle: 265, Distance: 611.0
+
+Angle: 266, Distance: 2276.25
+
+Angle: 267, Distance: 598.75
+
+Angle: 268, Distance: 515.25
+
+Angle: 269, Distance: 501.75
+
+Angle: 270, Distance: 420.5
+
+Angle: 271, Distance: 504.75
+
+Angle: 272, Distance: 339.0
+
+Angle: 273, Distance: 433.75
+
+Angle: 274, Distance: 309.25
+
+Angle: 275, Distance: 390.75
+
+Angle: 276, Distance: 355.75
+
+Angle: 277, Distance: 356.5
+
+Angle: 278, Distance: 358.0
+
+Angle: 279, Distance: 308.5
+
+Angle: 280, Distance: 308.5
+
+Angle: 281, Distance: 354.5
+
+Angle: 282, Distance: 442.25
+
+Angle: 283, Distance: 310.0
+
+Angle: 284, Distance: 306.0
+
+Angle: 285, Distance: 319.75
+
+Angle: 286, Distance: 311.5
+
+Angle: 287, Distance: 323.5
+
+Angle: 288, Distance: 323.5
+
+Angle: 289, Distance: 287.5
+
+Angle: 290, Distance: -1
+
+Angle: 291, Distance: -1
+
+Angle: 292, Distance: 285.0
+
+Angle: 293, Distance: 344.25
+
+Angle: 294, Distance: -1
+
+Angle: 295, Distance: 349.5
+
+Angle: 296, Distance: 300.0
+
+Angle: 297, Distance: 299.5
+
+Angle: 298, Distance: -1
+
+Angle: 299, Distance: -1
+
+Angle: 300, Distance: -1
+
+Angle: 301, Distance: 613.25
+
+Angle: 302, Distance: -1
+
+Angle: 303, Distance: 663.75
+
+Angle: 304, Distance: 618.0
+
+Angle: 305, Distance: 863.0
+
+Angle: 306, Distance: 522.25
+
+Angle: 307, Distance: 803.25
+
+Angle: 308, Distance: 801.25
+
+Angle: 309, Distance: 668.5
+
+Angle: 310, Distance: 554.25
+
+Angle: 311, Distance: 1325.25
+
+Angle: 312, Distance: 703.25
+
+Angle: 313, Distance: 508.25
+
+Angle: 314, Distance: 422.25
+
+Angle: 315, Distance: 430.5
+
+Angle: 316, Distance: 427.75
+
+Angle: 317, Distance: 427.25
+
+Angle: 318, Distance: 427.75
+
+Angle: 319, Distance: 437.25
+
+Angle: 320, Distance: 437.5
+
+Angle: 321, Distance: 414.75
+
+Angle: 322, Distance: 521.0
+
+Angle: 323, Distance: 969.0
+
+Angle: 324, Distance: 969.25
+
+Angle: 325, Distance: 941.0
+
+Angle: 326, Distance: 913.0
+
+Angle: 327, Distance: 905.0
+
+Angle: 328, Distance: 882.25
+
+Angle: 329, Distance: 861.25
+
+Angle: 330, Distance: 834.0
+
+Angle: 331, Distance: 828.25
+
+Angle: 332, Distance: 785.25
+
+Angle: 333, Distance: 775.25
+
+Angle: 334, Distance: 763.0
+
+Angle: 335, Distance: 746.75
+
+Angle: 336, Distance: 754.0
+
+Angle: 337, Distance: 752.75
+
+Angle: 338, Distance: 755.75
+
+Angle: 339, Distance: 738.0
+
+Angle: 340, Distance: 754.75
+
+Angle: 341, Distance: 755.5
+
+Angle: 342, Distance: 736.25
+
+Angle: 343, Distance: 722.5
+
+Angle: 344, Distance: 1024.5
+
+Angle: 345, Distance: 685.75
+
+Angle: 346, Distance: 701.75
+
+Angle: 347, Distance: 1130.75
+
+Angle: 348, Distance: 1156.75
+
+Angle: 349, Distance: 1123.0
+
+Angle: 350, Distance: 1136.5
+
+Angle: 351, Distance: 704.5
+
+Angle: 352, Distance: 448.25
+
+Angle: 353, Distance: -1
+
+Angle: 354, Distance: -1
+
+Angle: 355, Distance: -1
+
+Angle: 356, Distance: -1
+
+Angle: 357, Distance: -1
+
+Angle: 358, Distance: -1
+
+Angle: 359, Distance: -1
+
